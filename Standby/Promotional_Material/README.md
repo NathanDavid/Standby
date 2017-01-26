@@ -1,2 +1,2 @@
 
-Press-Kit: https://www.presskit.to/dashboard/presskits/info/index/standy
+Press-Kit: https://www.presskit.to/standby
