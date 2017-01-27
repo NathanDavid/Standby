@@ -1,3 +1,5 @@
+
+
 # StandbyDevelop 
 # Develop Branch 
 
@@ -23,3 +25,10 @@ Usable Actor Tutorial: http://www.tomlooman.com/tutorial-usableactor-system-in-c
 
 Trello Board for Programmers https://trello.com/b/iWbMPY89/fingerguns-programmers
 
+Controllers: https://docs.unrealengine.com/latest/INT/Gameplay/Framework/Controller/
+
+Pawn: https://docs.unrealengine.com/latest/INT/Gameplay/Framework/Pawn/
+
+Actors: https://docs.unrealengine.com/latest/INT/Programming/UnrealArchitecture/Actors/
+
+Game Mode, Game States and Player State: https://docs.unrealengine.com/latest/INT/Gameplay/Framework/GameMode/index.html
