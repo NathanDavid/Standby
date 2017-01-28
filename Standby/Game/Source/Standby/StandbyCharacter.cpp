@@ -110,7 +110,7 @@ void AStandbyCharacter::SetupPlayerInputComponent(class UInputComponent* PlayerI
 	// set up gameplay key bindings
 	check(PlayerInputComponent);
 
-	PlayerInputComponent->BindAction("Raycast", IE_Pressed, this, &AStandbyCharacter::PerformRaycast);
+	/*PlayerInputComponent->BindAction("Raycast", IE_Pressed, this, &AStandbyCharacter::PerformRaycast);*/
 
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
@@ -296,6 +296,7 @@ bool AStandbyCharacter::EnableTouchscreenMovement(class UInputComponent* PlayerI
 	return bResult;
 }
 
+/*
 void AStandbyCharacter::PerformRaycast()
 {
 	FHitResult* HitResult = new FHitResult();
@@ -310,3 +311,4 @@ void AStandbyCharacter::PerformRaycast()
 		GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, FString::Printf(TEXT("You hit: %s"), *HitResult->Actor->GetName()));
 	}
 }
+*/
