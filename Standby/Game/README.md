@@ -5,15 +5,7 @@
 
 <h3>Sprint Goals</h3>
 
-- Implement basic Raycasting
-
-- Use Raycasting to interact with objects/actors: point light
-
-- Design Github Page
-
 - Set up SVN/Tortoise SVN
-
-- Do Pluralsight SVN Tutorial
 
 <h4>Tutorial Links:</h4>
 
